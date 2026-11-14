@@ -12,7 +12,7 @@ import 'package:aud_dsp_sampler/aud_dsp_sampler_ffi.dart';
 import 'package:aud_dsp_sampler/testing.dart';
 import 'package:aud_midi/aud_midi.dart';
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 import 'engine_panel.dart';
